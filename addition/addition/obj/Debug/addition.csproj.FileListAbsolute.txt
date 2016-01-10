@@ -1,0 +1,6 @@
+D:\dhana dotnet project\addition\addition\bin\Debug\addition.exe.config
+D:\dhana dotnet project\addition\addition\obj\Debug\addition.csprojResolveAssemblyReference.cache
+D:\dhana dotnet project\addition\addition\bin\Debug\addition.exe
+D:\dhana dotnet project\addition\addition\bin\Debug\addition.pdb
+D:\dhana dotnet project\addition\addition\obj\Debug\addition.exe
+D:\dhana dotnet project\addition\addition\obj\Debug\addition.pdb
