@@ -1,0 +1,5 @@
+D:\dhana dotnet project\Solution1\OddNumbers\bin\Debug\OddNumbers.exe
+D:\dhana dotnet project\Solution1\OddNumbers\bin\Debug\OddNumbers.pdb
+D:\dhana dotnet project\Solution1\OddNumbers\obj\Debug\OddNumbers.exe
+D:\dhana dotnet project\Solution1\OddNumbers\obj\Debug\OddNumbers.pdb
+D:\dhana dotnet project\Solution1\OddNumbers\obj\Debug\OddNumbers.csprojResolveAssemblyReference.cache
